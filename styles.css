@@ -33,4 +33,6 @@ body{
 .button:hover {
     background-color: #0056b3;
 }
-
+section{
+    margin:2em;
+}
